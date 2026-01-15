@@ -38,13 +38,6 @@ With nearly a decade of experience, I specialize in building large-scale, high-p
 
 ---
 
-### 📊 Engineering Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=batuhan-bas&show_icons=true&theme=transparent&hide_border=true&title_color=A5B4FC&icon_color=A5B4FC&text_color=ffffff" alt="Batuhan's Stats" />
-</p>
-
----
-
 ### 📫 Connect with Me:
 - 💼 **LinkedIn:** [linkedin.com/in/batuhanbas](https://www.linkedin.com/in/batuhanbas)
 - 📧 **Email:** [batuhanbas.business@gmail.com](mailto:batuhanbas.business@gmail.com)
