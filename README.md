@@ -1,19 +1,20 @@
 # Hi there, I'm Batuhan! 👋
 
+<p align="left">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="2px" />
+</p>
+
 ### Senior Full-Stack Engineer | Engineering Management Candidate
+**Crafting Digital Excellence at [Craft Studio Labs](https://github.com/craft-studio-labs)**
 
-With nearly a decade of experience in the software industry, I specialize in building large-scale, high-performance web applications. My expertise spans the entire stack—from crafting pixel-perfect UIs with **Next.js**, **Nuxt**, and **Vue (VueUse Contributor)** to designing robust backends with **Node.js**, **Express**, **GraphQL**, and **MongoDB**. 
-
-Currently, I am bridging my deep technical knowledge with leadership skills to guide high-performing engineering teams and drive sustainable product growth through modern web architectures.
+With nearly a decade of experience, I specialize in building large-scale, high-performance web applications. I bridge deep technical expertise with leadership to guide high-performing teams and drive sustainable product growth through modern web architectures.
 
 ---
 
-### 🚀 What I Do
-- 🏗️ **System Architecture:** Designing enterprise-grade Full-Stack solutions with **Next.js**, **Nuxt 3**, and Micro-frontend architectures.
-- 📡 **Backend Excellence:** Building scalable **RESTful** & **GraphQL** APIs using **Node.js**, **Express**, and **Apollo Server**.
-- 🗄️ **Database & Infrastructure:** Expertly managing data with **MongoDB (NoSQL)**, **PostgreSQL**, and **Supabase (BaaS)**.
-- 🛠️ **Modern Tooling:** Optimizing DX with Vite, TypeScript, and automated CI/CD pipelines.
-- 👥 **Technical Leadership:** Defining engineering standards, mentoring developers, and fostering a culture of high-quality code.
+### 👥 Leadership & Impact (EM Focus)
+- **Technical Mentorship:** Leading code reviews and architecture sessions to level up engineering teams.
+- **Process Optimization:** Implementing scalable CI/CD pipelines and automated testing strategies to reduce technical debt.
+- **Strategic Alignment:** Bridging the gap between complex engineering challenges and business objectives.
 
 ---
 
@@ -37,8 +38,10 @@ Currently, I am bridging my deep technical knowledge with leadership skills to g
 
 ---
 
-### 🧠 Engineering Management Philosophy
-As an EM candidate, I believe in fostering a culture of transparent communication, continuous learning, and team autonomy. My goal is to align complex technical challenges with business objectives to ensure a sustainable development velocity while empowering engineers to do their best work.
+### 📊 Engineering Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=batuhan-bas&show_icons=true&theme=transparent&hide_border=true&title_color=A5B4FC&icon_color=A5B4FC&text_color=ffffff" alt="Batuhan's Stats" />
+</p>
 
 ---
 
@@ -46,5 +49,8 @@ As an EM candidate, I believe in fostering a culture of transparent communicatio
 - 💼 **LinkedIn:** [linkedin.com/in/batuhanbas](https://www.linkedin.com/in/batuhanbas)
 - 📧 **Email:** [batuhanbas.business@gmail.com](mailto:batuhanbas.business@gmail.com)
 
----
-*"Building the future of the web, one component at a time."*
+<p align="center">
+  <br />
+  <b>Built with passion at <a href="https://github.com/craft-studio-labs">Craft Studio Labs</a></b> <br />
+  <i>"Building the future of the web, one component at a time."</i>
+</p>
