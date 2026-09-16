@@ -1,9 +1,5 @@
 # Batuhan Baş
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="2px" />
-</p>
-
 Software engineer. Ten years building production applications, mostly on the frontend, often across the whole stack.
 
 I work in Angular, React, Vue and TypeScript, and on the backend in .NET, Node.js and Laravel. What I care about is the part between those layers: how data actually moves, where the seams are, and whether the thing still works six months later.
